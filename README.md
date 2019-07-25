@@ -16,7 +16,7 @@ The main script was developed and tested as a MATLAB live script. A MATLAB versi
 
 ### Run scripts
 
-The code can be executed by running the *excercise.mlx* script as a MATLAB live script. Running the entire script may take some time, as explorative analyses for some excercises go through a large number of iterations.
+The code can be executed by running the *excercise_2.mlx* script as a MATLAB live script. Running the entire script may take some time, as explorative analyses for some excercises go through a large number of iterations.
 
 ## Authors
 
